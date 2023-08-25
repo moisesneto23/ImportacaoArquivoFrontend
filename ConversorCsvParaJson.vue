@@ -34,7 +34,7 @@
   <script lang="ts">
   import { Component, Vue } from 'vue-property-decorator';
   import csvToJson from 'csvtojson';
-  import ItemCsvImport from '@/Model/Itens/ItemCsvImport';
+  import ItemArquivoModel from '@/Model/Itens/ItemArquivoModel';
   import * as XLSX from 'xlsx';
   import fs from 'fs';
 
@@ -46,7 +46,7 @@
     public get obterTodos(){
         return this.parsedData;
     }
-    public parsedData: ItemCsvImport[] = [];
+    public parsedData: ItemArquivoModel[] = [];
     public jsonData: string = '';
 
     public async AcionarImportacaoArquivo(event: Event): Promise<void> {

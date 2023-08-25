@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <row>
+    <Id>15</Id>
+    <Nome>montante 6 mm leve branco</Nome>
+    <ValorVenda>22.7</ValorVenda>
+    <ValorCompra>22.7</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>3</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>16</Id>
+    <Nome>caixilho para 65 mm</Nome>
+    <ValorVenda>15.7</ValorVenda>
+    <ValorCompra>15.7</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>3</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>17</Id>
+    <Nome>chapa bolleana</Nome>
+    <ValorVenda>157.7</ValorVenda>
+    <ValorCompra>157.7</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>4</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>18</Id>
+    <Nome>rebite</Nome>
+    <ValorVenda>0.09</ValorVenda>
+    <ValorCompra>0.09</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>1</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>19</Id>
+    <Nome>fechadura 65 mm AL</Nome>
+    <ValorVenda>67</ValorVenda>
+    <ValorCompra>67</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>1</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>20</Id>
+    <Nome>montante T Al</Nome>
+    <ValorVenda>29.7</ValorVenda>
+    <ValorCompra>27.7</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>3</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>21</Id>
+    <Nome>cantoneira 3/8 AL</Nome>
+    <ValorVenda>10</ValorVenda>
+    <ValorCompra>5</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>3</TipoUnidadeMedidaId>
+  </row>
+  <row>
+    <Id>22</Id>
+    <Nome>Dobradiça 3" branca</Nome>
+    <ValorVenda>4.5</ValorVenda>
+    <ValorCompra>4.5</ValorCompra>
+    <EmpresaId>1</EmpresaId>
+    <TipoUnidadeMedidaId>1</TipoUnidadeMedidaId>
+  </row>
+</data>

@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 15,
+    "Nome": "montante 6 mm leve branco",
+    "ValorVenda": 22.7,
+    "ValorCompra": 22.7,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 3
+  },
+  {
+    "Id": 16,
+    "Nome": "caixilho para 65 mm",
+    "ValorVenda": 15.7,
+    "ValorCompra": 15.7,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 3
+  },
+  {
+    "Id": 17,
+    "Nome": "chapa bolleana",
+    "ValorVenda": 157.7,
+    "ValorCompra": 157.7,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 4
+  },
+  {
+    "Id": 18,
+    "Nome": "rebite",
+    "ValorVenda": 0.09,
+    "ValorCompra": 0.09,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 1
+  },
+  {
+    "Id": 19,
+    "Nome": "fechadura 65 mm AL",
+    "ValorVenda": 67.0,
+    "ValorCompra": 67.0,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 1
+  },
+  {
+    "Id": 20,
+    "Nome": "montante T Al",
+    "ValorVenda": 29.7,
+    "ValorCompra": 27.7,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 3
+  },
+  {
+    "Id": 21,
+    "Nome": "cantoneira 3/8 AL",
+    "ValorVenda": 10.0,
+    "ValorCompra": 5.0,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 3
+  },
+  {
+    "Id": 22,
+    "Nome": "Dobradiça 3\" branca",
+    "ValorVenda": 4.5,
+    "ValorCompra": 4.5,
+    "EmpresaId": 1,
+    "TipoUnidadeMedidaId": 1
+  }
+]
